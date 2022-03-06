@@ -1,0 +1,11 @@
+.square{
+    /* border-radius: 3px;
+    border: solid chartreuse 3px; */
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    display: inline-block;
+    /* color: brown;
+    border-color: chartreuse;
+    margin: 100%; */
+}
